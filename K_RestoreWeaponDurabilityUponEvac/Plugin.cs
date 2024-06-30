@@ -5,7 +5,7 @@ using MGSC;
 using System.Linq;
 using UnityEngine;
 
-namespace K_RestoreWeaponDurabilityUponEvac
+namespace K_RestoreDurabilityUponEvac
 {
     [BepInPlugin(MyPluginInfo.PLUGIN_GUID, MyPluginInfo.PLUGIN_NAME, MyPluginInfo.PLUGIN_VERSION)]
     public class Plugin : BaseUnityPlugin

@@ -2,7 +2,7 @@
 	<PropertyGroup>
 		<TargetFramework>net48</TargetFramework>
 		<OutputType>Library</OutputType>
-		<RootNamespace>K_RestoreWeaponDurabilityUponEvac</RootNamespace>
+		<RootNamespace>K_RestoreDurabilityUponEvac</RootNamespace>
 		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
 	</PropertyGroup>
 	<ItemGroup>
